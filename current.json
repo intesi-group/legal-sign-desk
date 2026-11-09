@@ -1,0 +1,10 @@
+{
+  "windows": {
+    "ver": "1.5_636",
+    "file": "https://github.com/intesi-group/legal-sign-desk/releases/download/v1.5-636/LegalSignDesk-Sys-1.5_636.exe"
+  },
+  "macosx": {
+    "ver": "1.5_636",
+    "file": "https://github.com/intesi-group/legal-sign-desk/releases/download/v1.5-636/LegalSignDesk-Sys-1.5_636.pkg"
+  }
+}
